@@ -16,7 +16,7 @@ I'm sick of these spammy job link sites, let's consolidate the good listings in 
 | Ramp   | [Frontend SWE](https://boards.greenhouse.io/ramp/jobs/5893956002)        |
 | Ramp   | [Android SWE](https://boards.greenhouse.io/ramp/jobs/6726421002)        |
 | Anduril | [SWE](https://jobs.lever.co/anduril/59640365-448f-49c3-bce3-8b83e0570197) |
-| Nvidia | [High performance SWE](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/High-Performance-Computing-Engineer---New-College-Grad-2023_JR1966015?workerSubType=ab40a98049581037a3ada55b087049b7&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
+| Nvidia | [High performance SWE - other niche ones on site](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/High-Performance-Computing-Engineer---New-College-Grad-2023_JR1966015?workerSubType=ab40a98049581037a3ada55b087049b7&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | ByteDance | [Test SWE](https://jobs.bytedance.com/en/position/7213896640443435321/detail) |
 | ByteDance | [Test SWE - San Jose](https://jobs.bytedance.com/en/position/7213886532347463991/detail)
 | Palantir | [Fully Deployed SWE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049) |
