@@ -1,7 +1,7 @@
 # Who's hiring right now?
 ## L3 Jobs at Reputable tech companies
 
-While I'm far from an elitist, let's list out all jobs from companies that offer relatively top of the line pay that are still available for junior and mid level engineers, since they're in short supply.
+While I'm far from an elitist, let's list out all jobs from companies that offer relatively top of the line pay that are still available for junior engineers, since they're in short supply.
 
 Additionally, if you're in need of some interview/systems design
 prep, would greatly appreciate it if you'd check out my [YouTube channel](https://youtube.com/@jordanhasnolife5163), thanks!
